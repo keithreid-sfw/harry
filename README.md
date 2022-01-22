@@ -1,8 +1,8 @@
 # harry
 
-hour-based analysis of restrictive room yoose
+Hour-based Analysis of Restrictive Room Yoose
 
-modelling decay in seclusion durations
+modelling decay in seclusion durations to remove confounders for comparisons
 
 
 timeline analysis of how long seclusions take
@@ -11,12 +11,10 @@ its a jupyter notebook running julia
 
 happy to advise on set up
 
-probably going to combine 
+1. open source from start to finish
 
-  kaplan-meyer/cox/log;
-  a bit of normal or poisson; 
-  and a (?new) time line function which takes account of periodic reviews using a sort of local inverse square law
+2. test driven
 
-open source from start to finish
+3. clearly documented
 
 # this is the way
